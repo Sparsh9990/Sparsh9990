@@ -1,4 +1,4 @@
-👋 Hi, I'm Sparsh Sharma! A recent graduate in CS Major from Simon Fraser University. Having Accomplished 85% of Business Administration Minor requirements I'm focused on Business Analytics and Software development located in Toronto, ON, Canada.
+#### 👋 Hi, I'm Sparsh Sharma! A recent graduate in CS Major from Simon Fraser University. Having accomplished 85% of Business Administration Minor requirements I'm focused on Business, Data Analytics and Software development located in Toronto, Canada.
 
 ## 👨🏻‍🎓 About Me 👨🏻‍💼
 Passionate Business Analyst and Software Developer with a solid foundation in computer science and business strategy, blending analytical thinking, creativity, and technical expertise to deliver innovative Business solutions. Fusing tech expertise with a knack for business administration, I'm driven by the vision of creating impactful AI/programming solutions inspired by Jarvis from Iron Man. I thrive on opportunities to learn, grow, and drive innovation in the ever-evolving tech landscape.
