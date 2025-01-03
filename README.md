@@ -5,7 +5,7 @@ Passionate Business Analyst and Software Developer with a solid foundation in co
 
 ## 👨🏻‍💻 Technical Skills 🛠️
 - **Languages:** Java, Python, C++, C, SQL. 
-- **Tools & Platforms:** Balsamiq, Figma, Git, MySQL, Visual Studio, Adobe Premier Pro, JIRA, Microsoft 365.
+- **Tools & Platforms:** Balsamiq, Figma, Git, MySQL, MsSQL Server, Visual Studio, Adobe Premier Pro, JIRA, Microsoft 365.
 - **Data Science & AI:** SKLearn, TenserFlow, Pandas, NumPy, MatplotLib.
  
 ## 📊 Leadership & Advocacy 🌟
