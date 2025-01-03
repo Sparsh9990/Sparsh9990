@@ -7,8 +7,6 @@ Passionate Business Analyst and Software Developer with a solid foundation in co
 - **Languages:** Java, Python, C++, C, SQL. 
 - **Tools & Platforms:** Balsamiq, Figma, Git, MySQL, Visual Studio, Adobe Premier Pro, JIRA, Microsoft 365.
 - **Data Science & AI:** SKLearn, TenserFlow, Pandas, NumPy, MatplotLib.
-
-## 🗂️ Key Projects 📚
  
 ## 📊 Leadership & Advocacy 🌟
 - **SuperProf Teaching Assistant:** Facilitated Python and C++ programming lessons for 7th to 9th-grade students, fostering engagement and interest in coding and problem-solving.
