@@ -4,8 +4,8 @@
 Passionate Business Analyst and Software Developer with a solid foundation in computer science and business strategy, blending analytical thinking, creativity, and technical expertise to deliver innovative Business solutions. Fusing tech expertise with a knack for business administration, I'm driven by the vision of creating impactful AI/programming solutions inspired by Jarvis from Iron Man. I thrive on opportunities to learn, grow, and drive innovation in the ever-evolving tech landscape.
 
 ## 👨🏻‍💻 Technical Skills 🛠️
-- **Languages:** Java, Python, C++, C, SQL. 
-- **Tools & Platforms:** Balsamiq, Figma, Git, MySQL, MsSQL Server, Visual Studio, Adobe Premier Pro, JIRA, Microsoft 365.
+- **Languages:** Java, Python, Html, CSS, JavaScript C++, C, SQL. 
+- **Tools & Platforms:** Balsamiq, Figma, GitHub, GitLab, MySQL, MsSQL Server, Visual Studio Code, Adobe Premier Pro, JIRA, Microsoft 365, GoogleColab, Jupyter, PowerBI
 - **Data Science & AI:** SKLearn, TenserFlow, Pandas, NumPy, MatplotLib.
  
 ## 📊 Leadership & Advocacy 🌟
