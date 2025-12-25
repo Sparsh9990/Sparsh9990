@@ -10,7 +10,7 @@ Passionate Business Analyst and Software Developer with a solid foundation in co
  
 ## 📊 Leadership & Advocacy 🌟
 - **SuperProf Teaching Assistant:** Facilitated Python and C++ programming lessons for 7th to 9th-grade students, fostering engagement and interest in coding and problem-solving.
-- **University Community Advisor:** Created a supportive and educational community experience for peers, promoting safety, cyber-fraud awareness and mental health well-being through inclusive and engaging events.Top Speaker Trophy; 2nd Place Award in Universal Business Case Competition (Fall 2019)
+- **University Community Advisor:** Created a supportive and educational community experience for peers, promoting safety, cyber-fraud awareness and mental health well-being through inclusive and engaging events. Top Speaker Trophy; 2nd Place Award in Universal Business Case Competition (Fall 2019)
 - **Academic Presenter & Orientation Leader:** Led structured onboarding by addressing 1,500+ international students per term for 3 terms, covering academics, digital systems, banking, and cultural integration. 
 
  
